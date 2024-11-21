@@ -5,7 +5,6 @@ Workshop 02 do https://jornadadedados.alpaclass.com/ Para desenvolver o desafio 
 
 Fluxo:
 
-![image](https://github.com/user-attachments/assets/de2a655f-7838-451e-8f39-bf2447e255ad)
 
 
 
